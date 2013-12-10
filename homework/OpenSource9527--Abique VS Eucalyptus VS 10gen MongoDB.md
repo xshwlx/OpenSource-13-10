@@ -90,3 +90,7 @@ Amazon EC2的一个开源实现，与商业服务接口兼容，依赖于Linux�
 [4]开源云计算平台比较http://wenku.baidu.com    
 [5]百度百科http://baike.baidu.com/link?url=OLtbbjF8KFKboitaBzyG-9dqTb_XbChI0rAsjqDR7TpKSp9vNxpJydy1m_IbPCMmWT_wH9_rzZOe8CHigJh0Fa
 
+
+
+##  组员贡献 ##
+孟凡胜： 项目介绍   武俊峰：功能比较
