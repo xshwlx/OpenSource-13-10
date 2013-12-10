@@ -1,4 +1,4 @@
-﻿组名:OpenSource9527
+组名:OpenSource9527
 
     孟凡胜 mengfanshengBUAAGY4
     武俊峰 jeffrey5
@@ -50,7 +50,7 @@ AbiCloud 强大的Web界面管理：
        
 
 
-###2.1   Eucalyptus 开源云计算平台##
+###2.2   Eucalyptus 开源云计算平台##
  Eucalyptus项目（Elastic Utility Computing Architecture for LinkingYour Programs To Useful Systems）是Amazon EC2的一个开源实现，它与商业服务接口兼容。和EC2一样，Eucalyptus依赖于Linux和Xen进行操作系统虚拟化。Eucalyptus是加利福尼亚大学（SantaBarbara）为进行云计算研究而开发的。可以从该大学的网站上下载它，或者通过Eucalyptus Public Cloud体验，不过后者有一些限制。 
 Eucalyptus 项目全称是Elastic Utility Computing Architecture for Linking Your Programs To Useful Systems，由Santa Barbara大学建立的开源项目，是主要实现云计算环境的弹性需求的软件，通过其在集群或者服务器组上的部署，并且使用常见的Linux工具和基本的基于web的服务。使用FreeBSD License，意味着可以直接使用在商业软件应用中，当前支持的商业服务只是亚马逊的EC2，今后会增加多种客户端接口。该系统使用和维护十分方便，使用SOAP安全的内部通信，且把可伸缩型作为主要的设计目标，具有简单易用，扩展方便的特点。这个软件层的工具可以用来通过配置服务器集群来实现私有云，并且其接口也是与公有云相兼容，可以满足私有云与公有云混合构建扩展的云计算环境。下面的列表是该项目的路线图：
 5/28/08 – Release 1.0 shipped
@@ -84,13 +84,10 @@ Amazon EC2的一个开源实现，与商业服务接口兼容，依赖于Linux�
 ##4	社区活跃度比较##
  云计算拥有无限潜力有待人们开发挖掘，云计算的发展将给信息社会的发展带来历史性的飞跃，本文在介绍云计算及云计算平台构架的基础上，总结分析了当前主要的开源云计算平台的特征，通过简单的对比和初步分析，得出：Abiquo公司的abiCloud, abiNtense和abiData都可以用来架构和开发公有私有混合云，其中AbiCloud较之同类其他产品的一个主要的区别在于其强大的Web界面管理。abiNtense可减少大量高性能计算的执行时间。而abiData是一种低成本的云存储解决方案；Eucalyptus有EC2的类似功能和接口； 10gen MongoDB可用于创建自己的私有云，类似于App Engine的一个软件栈，提供与App Engine 类似的功能。
 
-
-
-
 ## 参考资料 ##
-[1] Boss G, Malladi P, Quan D, Legregni L, Hall H. Cloud computing. IBM White Paper, 2007.
-[2]GannonD.HeadintheeloudsJl.Nature，2007，449
-[3]人才芯片工程 http://www.lupaworld.com/article-209670-1.html
-[4]开源云计算平台比较http://wenku.baidu.com
+[1] Boss G, Malladi P, Quan D, Legregni L, Hall H. Cloud computing. IBM White Paper, 2007.    
+[2]GannonD.HeadintheeloudsJl.Nature，2007，449    
+[3]人才芯片工程 http://www.lupaworld.com/article-209670-1.html    
+[4]开源云计算平台比较http://wenku.baidu.com    
 [5]百度百科http://baike.baidu.com/link?url=OLtbbjF8KFKboitaBzyG-9dqTb_XbChI0rAsjqDR7TpKSp9vNxpJydy1m_IbPCMmWT_wH9_rzZOe8CHigJh0Fa
 
